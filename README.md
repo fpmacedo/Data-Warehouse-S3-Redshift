@@ -1,6 +1,6 @@
 # Project: Data Warehouse
 
-> by Filipe Macedo 07 March 2020
+> by Filipe Macedo 07 March 2021
 
 ## 1. Project Description
 
